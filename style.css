@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+.orgs {
+    border: 2pt solid green;
+    display: inline-block;
+    text-align: left; 
+    width: 30%;
+    min-width: 300px;
+    padding: 0px;
+}
+
+.orgs>ul {
+    padding-left: 10px;
+}
